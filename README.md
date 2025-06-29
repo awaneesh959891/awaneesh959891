@@ -37,7 +37,7 @@ namespace Developer.Profile
 {
     public class Awaneesh : IDeveloper
     {
-        public string Name => "Awaneesh Kumar";
+        public string Name => "Awaneesh Vikram Singh";
         public string Role => ".NET Software Engineer";
         public string Location => "🌍 India";
         public int YearsOfExperience => DateTime.Now.Year - 2020;
@@ -75,7 +75,7 @@ namespace Developer.Profile
 ### 🎯 **Quick Facts**
 
 ```yaml
-name: Awaneesh Kumar
+name: Awaneesh Vikram Singh
 located_in: India
 current_job: .NET Developer
 education: 
